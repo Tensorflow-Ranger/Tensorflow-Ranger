@@ -1,4 +1,4 @@
-Hi, I’m Rahul.
+# Hey, I’m Rahul.
 
 I’m a computer science student interested in systems, security,
 and applied AI/ML, especially how these systems behave at runtime.
@@ -29,4 +29,4 @@ model behavior, and hands-on fine-tuning.
 I prefer clarity over cleverness.  
 If something works, I want to know why.
 
-📫 Reach me: rahul.jaikrishna@gmail.com
+Reach me: rahul.jaikrishna@gmail.com
