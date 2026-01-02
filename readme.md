@@ -3,7 +3,7 @@
 I’m a computer science student interested in systems, security,
 and applied AI/ML, especially how these systems behave at runtime.
 
-I build small, focused things to understand where abstractions break.
+I build projects to understand where abstractions break.
 
 ---
 
